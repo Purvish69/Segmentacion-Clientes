@@ -73,7 +73,7 @@ CREATE EXTERNAL TABLE IF NOT EXISTS rfm_data (
     MonetaryValue double
 )
 STORED AS PARQUET
-LOCATION 's3://customer-segmentation-lake-xxxxx/processed/rfm_data/';
+LOCATION 's3://customer-segmentation-lake-DatoPrivado/processed/rfm_data/';
 ```
 Consulta 2: Ver muestras de datos
 ```
