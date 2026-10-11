@@ -8,7 +8,7 @@ El objetivo principal es generar una segmentación de clientes basada en el mode
 
 ## Arquitectura del proyecto
 
-![Arquitectura](arquitectura.png)
+![Arquitectura](Image/)
 
 El flujo de datos sigue una arquitectura tipo Data Lake:
 
